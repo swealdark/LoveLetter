@@ -1,5 +1,5 @@
 @font-face {
-  font-family: "Brush Script MT Custom";
+  font-family: "Brush Script MT";
   src: url("BRUSHSCI.TTF") format("truetype");
   font-weight: normal;
   font-style: normal;
@@ -314,4 +314,5 @@ body {
   color: #d62828;
   cursor: pointer;
 }
+
 
