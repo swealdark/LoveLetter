@@ -1,3 +1,9 @@
+@font-face {
+  font-family: "Brush Script MT Custom";
+  src: url("BRUSHSCI.TTF") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
 body {
   display: flex;
   justify-content: center;
@@ -308,3 +314,4 @@ body {
   color: #d62828;
   cursor: pointer;
 }
+
